@@ -20,4 +20,4 @@ else if (answer.operator==="multiplication")
 else if (answer.operator==="division")
 {console.log(answer.firstname / answer.secondname);}
 else {console.log("please wrie a valid operator");}
-console.log('the end');
+console.log('the end to the calculator');
